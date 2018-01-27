@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon like storefront application that will take in orders from customers and deplete stock from the  store's inventory.",
+  "main": "bamazon.js",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fzbo/bamazon.git"
+  },
+  "author": "ebazan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fzbo/bamazon/issues"
+  },
+  "homepage": "https://github.com/fzbo/bamazon#readme"
+}

@@ -17,4 +17,6 @@ The user is prompted with a list of current inventory on hand.
 
 ![itemsdisplay](https://user-images.githubusercontent.com/30742763/35469332-c20b4352-0300-11e8-8683-28cb26d018c7.jpg)
 
+The user is prompted to enter an ID number of product and the quantity.
+
 

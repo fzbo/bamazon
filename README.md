@@ -2,6 +2,9 @@
 
 ## Technologies used are Node.js and MySQL.
 
+### What is Bamazon?
+
+Amazon like storefront app that will take in orders from customers and deplete stock from the store's inventory.
 
 
 

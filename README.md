@@ -23,5 +23,7 @@ The user is prompted to enter an ID number of product and the quantity.
 
 The app checks stock levels and provides a total before thanking the cusotmer for ordering and then disconnects.
 
+![orderplaced](https://user-images.githubusercontent.com/30742763/35469419-303c4348-0302-11e8-8e65-6e26dea0a3ce.jpg)
+
 
 

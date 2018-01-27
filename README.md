@@ -19,4 +19,6 @@ The user is prompted with a list of current inventory on hand.
 
 The user is prompted to enter an ID number of product and the quantity.
 
+![idandqty](https://user-images.githubusercontent.com/30742763/35469383-90d48158-0301-11e8-97da-d54b8bf5b425.jpg)
+
 

@@ -8,6 +8,8 @@
 Amazon like storefront app that will take in orders from customers and deplete stock from the store's inventory. Back end technologies
 with no front end UI.
 
+![shopping cart](https://user-images.githubusercontent.com/30742763/35489309-2e23986a-0463-11e8-89ef-145f95c8f7aa.jpg)
+
 
 
 

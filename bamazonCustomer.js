@@ -69,10 +69,10 @@ function selectProduct() {
 				]).then(function(answer) {
 				
 					var item = answer.productID;
-					console.log(item);
+					//console.log(item);
 
 					var itemAmount = answer.amount;
-					console.log(itemAmount);
+					//console.log(itemAmount);
 					console.log("You want to buy " + itemAmount + " of product number " + item +".");
 
 					connection.query("SELECT * FROM Products WHERE ?", 

@@ -20,6 +20,8 @@ The user is prompted with a list of current inventory on hand.
 
 The user is prompted to enter an ID number of product and the quantity.
 
+![bamazon2a](https://user-images.githubusercontent.com/30742763/35489289-d24b817e-0462-11e8-809b-f41fc3b10ec3.jpg)
+
 
 
 The app checks stock levels and provides a total before thanking the cusotmer for ordering and then disconnects.

@@ -89,7 +89,7 @@ function selectProduct() {
 						var remainingInStock = inStock - itemAmount;
 						var grandTotal = price * itemAmount;
 						console.log("Remaining in stock: " + remainingInStock);
-						console.log("Your total is " + grandTotal);
+						console.log("Your total is " + "$" + grandTotal);
 						console.log("Thank you for shopping Bamazon.")
 
 						

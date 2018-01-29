@@ -26,6 +26,8 @@ The user is prompted to enter an ID number of product and the quantity.
 
 The app checks stock levels and provides a total before thanking the cusotmer for ordering and then disconnects.
 
+![bamazon3](https://user-images.githubusercontent.com/30742763/35489298-f44d01f8-0462-11e8-98ce-bd0da226812e.jpg)
+
 
 
 

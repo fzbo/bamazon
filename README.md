@@ -15,6 +15,7 @@ with no front end UI.
 
 The user is prompted with a list of current inventory on hand. 
 
+![bamazon2](https://user-images.githubusercontent.com/30742763/35489266-80eaf5d0-0462-11e8-820f-1d7bd837d5a3.jpg)
 
 
 The user is prompted to enter an ID number of product and the quantity.
